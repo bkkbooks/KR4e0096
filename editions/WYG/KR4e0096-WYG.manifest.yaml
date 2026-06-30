@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR4e0096/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4e0096/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 運甓漫稿
+  date: '2015-08-25 00:19:38.403124'
+  source:
+    repository: kanripo
+    path: KR4e0096
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4e0096_000-WYG.yaml, hash: 'sha256:178754a04bca67a9736f913b64d1ad843fb3879472c0d656bf05a0d36153ef18'}
+  - {seq: 1, filename: KR4e0096_001-WYG.yaml, hash: 'sha256:a8141ad5d61c2463a8e7fb0dcebcda4f74ba1b88b348390cd66d0f46753b324b'}
+  - {seq: 2, filename: KR4e0096_002-WYG.yaml, hash: 'sha256:d6813e051c4c4bd7ef54969e4e0cae414cd7fa46881ec56ada42dab166404e1b'}
+  - {seq: 3, filename: KR4e0096_003-WYG.yaml, hash: 'sha256:8aa2f6520bcff99b0163c4f4b906bb1f12548e723b482037e1741a41992bb9f9'}
+  - {seq: 4, filename: KR4e0096_004-WYG.yaml, hash: 'sha256:bb75a87a9d7fb1910abc8d65791c6a1fd2501bb910f8d506c673a424dc9421b5'}
+  - {seq: 5, filename: KR4e0096_005-WYG.yaml, hash: 'sha256:4eb5ee6d45505c1709b9d815b76dea5fc8565c0ac93e7b23c54e487581bd7cb4'}
+  - {seq: 6, filename: KR4e0096_006-WYG.yaml, hash: 'sha256:e6c98dafea495f46a38e444a3f74c061394729f78d7d5b05c511de9ac081fcfe'}
+  - {seq: 7, filename: KR4e0096_007-WYG.yaml, hash: 'sha256:55c188fb5ae226e3bdcfbd13ae0985699b57ddc546b553c1ddac2ee6cf87d529'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4e0096_000-WYG.markers.yaml, hash: 'sha256:cbf7e8cc0e363b96eaa67724caa4edd45f292e000522bfd5a03b9f05cb5c5e72'}
+  - {seq: 1, role: markers, filename: assets/KR4e0096_001-WYG.markers.yaml, hash: 'sha256:091e4eac996d01af06966d9e1f967a0817d77f351b36e8affead4526e308fef0'}
+  - {seq: 2, role: markers, filename: assets/KR4e0096_002-WYG.markers.yaml, hash: 'sha256:140b0e00322730d596549b54402a011127b03ed6a8c17227ffb1800a86f03e8d'}
+  - {seq: 3, role: markers, filename: assets/KR4e0096_003-WYG.markers.yaml, hash: 'sha256:58f19bfeb0cb2bf795f454593dabe4a859c91a615019dae648b2861af2e0e64a'}
+  - {seq: 4, role: markers, filename: assets/KR4e0096_004-WYG.markers.yaml, hash: 'sha256:157106cb135104da0896f2cfbabbaf68f2887c197329e6a71667284e8b86203f'}
+  - {seq: 5, role: markers, filename: assets/KR4e0096_005-WYG.markers.yaml, hash: 'sha256:913f557f75a31466b839c8820711af473c9db4b229e1d506c456d2862c8f5c78'}
+  - {seq: 6, role: markers, filename: assets/KR4e0096_006-WYG.markers.yaml, hash: 'sha256:52b135b923203ccfc743150e41cd3115c5438972534724bda3212767e1910300'}
+  - {seq: 7, role: markers, filename: assets/KR4e0096_007-WYG.markers.yaml, hash: 'sha256:983d2c720dc8df1536303d62134fabbf477f42a621b1263050b3a7cd6caddd1e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4e0096_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 427
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4e0096_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10267
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4e0096_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 17701
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4e0096_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 7380
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4e0096_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 1024
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4e0096_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 13022
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4e0096_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 4070
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4e0096_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 3415
+  label: 卷七
+  type: section
+  level: 1
+hash: sha256:afc22412a1ca86803b1a54a518368966c5a46dcd87417eaff7ecd2e86f71cdd1
